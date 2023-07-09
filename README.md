@@ -4,6 +4,7 @@
 Preprocessing refers to the steps taken to prepare data for analysis or machine learning tasks. It involves transforming raw data into a format that is suitable for further analysis or modeling. In Python, there are several libraries and techniques available for performing data preprocessing tasks. Here is a general description of common preprocessing steps:
 
 #Importing Libraries:
+
 Begin by importing the necessary libraries such as NumPy, Pandas, and Scikit-learn, which provide various functions for data manipulation and preprocessing.
 
 Loading Data: Load the dataset into your Python environment. This can be done using functions provided by libraries like Pandas or NumPy.
